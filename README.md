@@ -1,42 +1,35 @@
-<h2 align="left">Olá 👋! Me chamo Doan Casotti 👋</h2>
+# Doan Casotti
 
-###
+**Cloud & Automation Engineer · AWS · Terraform · n8n · PostgreSQL**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-</div>
+Construo infraestrutura na AWS, conecto sistemas e automatizo processos. Minha trajetória em TI começou em 2006 no suporte técnico, passou por desenvolvimento e bancos de dados e, desde 2025, tem foco em automação e cloud na Oregon EAD.
 
-###
+[**Conheça meu portfólio →**](https://doancasotti.github.io/) · [LinkedIn](https://www.linkedin.com/in/doancasotti/) · [E-mail](mailto:doancasottiaws@gmail.com)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/doancasotti/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <a href="https://www.facebook.com/doan.casotti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+## O que faço
 
-###
+- **Cloud & DevOps:** infraestrutura AWS com Terraform, containers Docker, Linux e pipelines de entrega.
+- **Automação & IA:** n8n self-hosted, agentes com OpenAI API, webhooks e integrações de comunicação e atendimento.
+- **Dados & Back-end:** PostgreSQL, migração de bancos, otimização de consultas, SQL Server, MySQL, Redis, C# e Windev.
+
+## Projetos selecionados
+
+| Projeto | O que você encontra | Contexto |
+| --- | --- | --- |
+| [**SWAP**](https://github.com/DoanCasotti/swap) | Crossplane, manifests Kubernetes, dois microserviços Node.js e testes. [Documentação](https://github.com/DoanCasotti/swap/blob/main/docs/README.md). | Desafio técnico de infraestrutura cloud-native |
+| [**BIA no EKS**](https://github.com/DoanCasotti/bia-eks) | Terraform para infraestrutura AWS e configuração de GitOps com Argo CD | Estudo aplicado sobre a BIA, da Formação AWS de Henrylle Maia |
+| [**AWS DevOps Utility**](https://github.com/DoanCasotti/utility) | Automação com Bash e Terraform, RDS PostgreSQL privado e acesso via SSM | Utilitários de infraestrutura |
+| [**BotClinica**](https://github.com/DoanCasotti/BotClinica) | Provisionamento de EC2 com Terraform e user data para TypeBot e n8n | Infraestrutura para atendimento automatizado |
+| [**ClinicaPesSaude**](https://github.com/DoanCasotti/ClinicaPesSaude) | Scripts de provisionamento para n8n, Evolution API, Redis e PostgreSQL | Infraestrutura de automação para clínica |
+
+Nos projetos de clínica, os repositórios públicos mostram a infraestrutura; os fluxos privados e dados de pacientes não fazem parte da demonstração. Kubernetes, Crossplane e Argo CD aparecem nos meus projetos de estudo.
+
+## Trajetória
+
+- **Mar/2025 – atual · Oregon EAD:** Engenheiro de Automação & Cloud (PJ, remoto).
+- **Jan/2019 – Mar/2025 · Sistemas Integra:** Programador, com atuação em back-end e banco de dados.
+- **Out/2006 – Dez/2018 · Sistemas Integra:** Analista de Suporte Técnico.
+
+**Formação:** Administração com Habilitação em Análise de Sistemas — Unesc, 2006–2010.
+
+Colatina, Espírito Santo, Brasil · [doancasottiaws@gmail.com](mailto:doancasottiaws@gmail.com)
